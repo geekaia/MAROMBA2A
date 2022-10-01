@@ -77,7 +77,7 @@ public class Comida extends javax.swing.JFrame {
 
         jToolBar2.setRollover(true);
 
-        btnSalvar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/maromba2a/imagens/salvar.png"))); // NOI18N
+        btnSalvar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/br/edu/ifmt/maromba2a/imagens/salvar.png"))); // NOI18N
         btnSalvar.setText("Salvar");
         btnSalvar.setFocusable(false);
         btnSalvar.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -89,7 +89,7 @@ public class Comida extends javax.swing.JFrame {
         });
         jToolBar2.add(btnSalvar);
 
-        btnNovo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/maromba2a/imagens/novoregistro.png"))); // NOI18N
+        btnNovo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/novoregistro.png"))); // NOI18N
         btnNovo.setText("Novo");
         btnNovo.setFocusable(false);
         btnNovo.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -101,7 +101,7 @@ public class Comida extends javax.swing.JFrame {
         });
         jToolBar2.add(btnNovo);
 
-        btnRemover.setIcon(new javax.swing.ImageIcon(getClass().getResource("/maromba2a/imagens/removerregistro.png"))); // NOI18N
+        btnRemover.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/removerregistro.png"))); // NOI18N
         btnRemover.setText("Remover");
         btnRemover.setFocusable(false);
         btnRemover.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -113,7 +113,7 @@ public class Comida extends javax.swing.JFrame {
         });
         jToolBar2.add(btnRemover);
 
-        btnAtualizar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/maromba2a/imagens/atualizarregistro.png"))); // NOI18N
+        btnAtualizar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/atualizarregistro.png"))); // NOI18N
         btnAtualizar.setText("Atualizar");
         btnAtualizar.setFocusable(false);
         btnAtualizar.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -125,7 +125,7 @@ public class Comida extends javax.swing.JFrame {
         });
         jToolBar2.add(btnAtualizar);
 
-        btnRelatorio.setIcon(new javax.swing.ImageIcon(getClass().getResource("/maromba2a/imagens/relatorio.png"))); // NOI18N
+        btnRelatorio.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/relatorio.png"))); // NOI18N
         btnRelatorio.setText("Relatório");
         btnRelatorio.setFocusable(false);
         btnRelatorio.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);

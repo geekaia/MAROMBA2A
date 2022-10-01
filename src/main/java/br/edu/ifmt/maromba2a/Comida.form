@@ -108,7 +108,7 @@
         <Component class="javax.swing.JButton" name="btnSalvar">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/maromba2a/imagens/salvar.png"/>
+              <Image iconType="3" name="/br/edu/ifmt/maromba2a/imagens/salvar.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Salvar"/>
             <Property name="focusable" type="boolean" value="false"/>
@@ -122,7 +122,7 @@
         <Component class="javax.swing.JButton" name="btnNovo">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/maromba2a/imagens/novoregistro.png"/>
+              <Image iconType="3" name="/imagens/novoregistro.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Novo"/>
             <Property name="focusable" type="boolean" value="false"/>
@@ -136,7 +136,7 @@
         <Component class="javax.swing.JButton" name="btnRemover">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/maromba2a/imagens/removerregistro.png"/>
+              <Image iconType="3" name="/imagens/removerregistro.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Remover"/>
             <Property name="focusable" type="boolean" value="false"/>
@@ -150,7 +150,7 @@
         <Component class="javax.swing.JButton" name="btnAtualizar">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/maromba2a/imagens/atualizarregistro.png"/>
+              <Image iconType="3" name="/imagens/atualizarregistro.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Atualizar"/>
             <Property name="focusable" type="boolean" value="false"/>
@@ -164,7 +164,7 @@
         <Component class="javax.swing.JButton" name="btnRelatorio">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/maromba2a/imagens/relatorio.png"/>
+              <Image iconType="3" name="/imagens/relatorio.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Relat&#xf3;rio"/>
             <Property name="focusable" type="boolean" value="false"/>
