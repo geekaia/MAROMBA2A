@@ -15,6 +15,8 @@ import javax.swing.table.DefaultTableModel;
  */
 public class Comida extends javax.swing.JFrame {
 
+    
+    /// oK
     /**
      * Creates new form Comida
      */
