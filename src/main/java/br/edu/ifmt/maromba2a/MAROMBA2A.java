@@ -16,6 +16,9 @@ public class MAROMBA2A {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Olá mundo"); 
+        
+        Comida comida = new Comida(); 
+        comida.setVisible(true);
     }
     
 }
